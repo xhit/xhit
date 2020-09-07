@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=xhit&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=xhit&show_icons=true&theme=dark">
 
 ### Hi there I'm Santiago 👋
 
