@@ -10,5 +10,7 @@
 - 🌱 I’m currently learning about a lot of things and how to integrate them
 - 👯 I’m looking to collaborate on software integration
 - 💬 Ask me about anything
-- ⚡ Fun fact: My life follow The KISS principle
+- ⚡ Fun fact #1: My life follow The KISS principle
+- ⚡ Fun fact #2: I'm not a developer. I like to solve problems using code
+- ⚡ Fun fact #3: Solve the problem. Refactor later... If need it
 - 🚧 **Current Project:** [Dixer](https://dixer.stgo.do)
