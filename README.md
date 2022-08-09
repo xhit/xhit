@@ -4,7 +4,7 @@
 [![hi@stgo.do](https://img.shields.io/static/v1?label=hi@stgo.do&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:hi@stgo.do)
   
 
-- 🔭 I’m currently working on [d-Una](https://deuna.com), [Ofimatic](https://ofimatic.com) and [AJ IT Electronics Solutions](https://aj-itelectronics.com)
+- 🔭 I’m currently working on [Ofimatic](https://ofimatic.com) and [AJ IT Electronics Solutions](https://aj-itelectronics.com)
 - 🌱 I’m currently learning about a lot of things and how to integrate them
 - 👯 I’m looking to collaborate on software integration
 - 💬 Ask me about anything
